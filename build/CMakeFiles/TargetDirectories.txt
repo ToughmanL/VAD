@@ -1,0 +1,3 @@
+/home/wanghaibo/docker_images/code/wenet-build/runtime/server/x86/vad/build/CMakeFiles/rebuild_cache.dir
+/home/wanghaibo/docker_images/code/wenet-build/runtime/server/x86/vad/build/CMakeFiles/edit_cache.dir
+/home/wanghaibo/docker_images/code/wenet-build/runtime/server/x86/vad/build/CMakeFiles/test_vad.dir

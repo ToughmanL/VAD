@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/test_vad.dir/test/fvadwav.c.o  -o test_vad -Wl,-rpath,/home/wanghaibo/docker_images/code/wenet-build/runtime/server/x86/vad/lib ../lib/libfvad.so ../lib/libsndfile.so 
